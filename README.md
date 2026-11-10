@@ -15,11 +15,3 @@
 
 ## My Goal 
 To become a skilled Software Developer 🚀
-
-## My Skills Badges
-
-![C](https://img.shields.io/badge/C
--Programming-blue)
-![HTML](https://img.shields.io/badge/HTML
--Learning-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Prifile-black)
